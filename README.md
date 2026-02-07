@@ -105,7 +105,7 @@ IIIT Kottayam (Aug 2024 - Present)
 
 ## Current Focus
 
-Building production-grade AI systems with emphasis on:
+**Building production-grade AI systems with emphasis on**:
 - Agentic AI architectures using Ray and LangGraph
 - Clinical intelligence automation and research validation
 - Behavioral biometrics and post-quantum cryptography
