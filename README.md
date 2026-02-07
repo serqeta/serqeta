@@ -1,94 +1,135 @@
-# Hi there! I'm Suraj Harlekar
+<!-- Unified Badge Row -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Building-44cc11?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Focus-AI%20%26%20ML-FF6F00?style=for-the-badge&logo=tensorflow" />
+</p>
 
-<div align="center">
-  
-**NLP Enthusiast & Deep Learning Developer**
+<!-- Bio Quote -->
+> Building intelligent systems that solve real problems.  
+> From agentic AI pipelines to behavioral biometrics, I work at the intersection of research and production.  
+> Currently exploring clinical intelligence automation and observatory control systems.
 
-<img src="https://user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif" width="400" alt="Programming Animation"/>
+# Hi there, I'm Suraj Harlekar
 
-</div>
-
----
+Welcome to my GitHub profile! I'm an AI/ML engineer and full-stack developer specializing in agentic systems, natural language processing, and production-grade machine learning infrastructure.
 
 ## About Me
-- Currently diving deep into **NLP, BERT, and Transformers**
-- Passionate about **UI/UX Design** and **Competitive Programming**
-- **Hackathon Enthusiast** with multiple achievements
-- Building intelligent systems that make a difference
-- Ex-member: Cyber Security Club & Enigma (AI/ML) Club, IIIT Kottayam
 
----
+- Currently pursuing B.Tech in CSE (AI & Data Science) at IIIT Kottayam
+- Building Entropy: Agentic AI for Clinical Intelligence with deterministic "Glass Box" architecture
+- Former Observatory Control System Software Intern at Physical Research Laboratory, Mount Abu
+- Placement Cell Lead managing recruitment operations for 23+ companies
+- Winner of FinShield'2025 Hackathon with IPR acquired by Bank of India
 
-## Recent Achievements
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=BrownBeast-spec&theme=onedark&margin-w=15&margin-h=15)
 
-<div align="center">
+## Technical Expertise
 
-| Event | Position | Year |
-|----------|-------------|---------|
-| **Bhartiya Antariksha Hackathon** | **Finalist** | 2024 |
-| **CIDECODE** | **Runner up** | 2024 |
-| **SuRaksha Hackathon (Canara Bank)** | **2nd Runner up** | 2025 |
+### Languages & Backend
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" width="40" height="40"/>
+</p>
 
-</div>
+**Stack:** Python, C++, Java, SQL, Node.js, Express, Django, FastAPI, Ray, Bash
 
----
+### AI/ML & Data Science
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/>
+</p>
 
-## Tech Stack
+**Stack:** PyTorch, TensorFlow, LangGraph, LlamaIndex, Pandas, NumPy, Scikit-Learn, Hugging Face
 
-<div align="center">
+### Frontend & DevOps
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+</p>
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+**Stack:** React, Tailwind CSS, Streamlit, Docker, Git, Minio
 
-### ML/AI Frameworks
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=for-the-badge)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BrownBeast-spec&layout=compact&theme=radical)
 
-### Tools & Technologies
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![LangChain](https://img.shields.io/badge/🦜_LangChain-121D33?style=for-the-badge)
+## Featured Projects
 
-</div>
+### Entropy: Agentic AI for Clinical Intelligence
+**Tech Stack:** FastAPI, Ray (8-agent architecture)
 
----
+Automated clinical intelligence pipeline reducing comprehensive report generation from 2 weeks to 3 minutes. Built deterministic "Glass Box" Trust Engine to detect "Zombie Trials" and cross-reference FDA data with 100% citation traceability. Product scope refined through consultation with EATRIS Directors.
+
+[View Project](https://github.com/BrownBeast-spec/)
+
+### FinShield: Behavioral Biometric Authentication
+**Tech Stack:** KNN/LSTM, ML-KEM, DPDP-compliant architecture  
+**Recognition:** IPR owned by Bank of India
+
+Multi-modal behavioral authentication system (touch, motion, typing) for real-time fraud detection in mobile banking. Achieved sub-millisecond anomaly detection with quantized KNN/LSTM engine and few-shot personalization. Integrated post-quantum cryptography for future-proof security.
+
+### Observatory Control System (PRL Mount Abu)
+**Tech Stack:** Django, REST API, Minio, 3PB distributed filesystem
+
+Deployed unified Observatory Control System consolidating 4+ Django modules for 1.2m telescope. Migrated Science Archive from AWS S3 to Minio on 3PB distributed filesystem, optimizing long-term observational archival costs. Implemented REST API with real-time admin dashboard for centralized telescope provisioning.
+
+### IIRS Spectral Classification of Lunar Surface
+**Tech Stack:** MATLAB, Hyperspectral Processing, GUI Development
+
+Developed MATLAB hyperspectral pipeline achieving 82% accuracy for lunar surface mineralogy analysis. Deployed real-time GUI for spectral classification used in research applications.
+
+## Achievements & Recognition
+
+| Achievement | Organization | Year |
+|-------------|--------------|------|
+| **FinShield Hackathon Winner** | Bank of India (IPR Acquired) | 2025 |
+| **SuRaksha 2nd Runner Up** | Canara Bank | 2025 |
+| **CIDECODE 1st Runner Up** | CCITR(Cybercrime Investigation Training & Research) | 2025 |
+| **Bhartiya Antariksh Hackathon Finalist** | ISRO | 2024 |
+
+## Leadership Experience
+
+**Placement Cell Lead - HR & Student Coordination**  
+IIIT Kottayam (Aug 2024 - Present)
+
+- Primary point of contact for 23 companies, managing end-to-end recruitment lifecycle
+- Directed logistics for online assessments and interviews for graduating batch
+- Handled student data management and resolved real-time operational issues
 
 ## Current Focus
 
-<div align="left">
+Building production-grade AI systems with emphasis on:
+- Agentic AI architectures using Ray and LangGraph
+- Clinical intelligence automation and research validation
+- Behavioral biometrics and post-quantum cryptography
+- Large-scale observatory control systems
+- NLP and transformer-based architectures
 
-<img src="https://user-images.githubusercontent.com/74038190/271839856-3b4607a1-1cc6-41f1-926f-892ae880e7a5.gif" width="300" alt="Happy Coder"/>
+## Connect with Me
 
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/surajharlekar">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:suraj23bcd38@iiitkottayam.ac.in">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/BrownBeast-spec">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
 
-- **Natural Language Processing** & **Deep Learning**
-- **Large Language Models** and **Transformer Architecture**
-- **UI/UX Design** for AI-powered applications
-- **Mobile-First Design** principles
+<p align="center">
+  <strong>Open to collaborations on AI/ML research, agentic systems, and production ML infrastructure.</strong>
+</p>
 
 ---
 
-## Let's Connect!
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SurajHarlekar/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://sakigo9.github.io/MyPortfolio/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/suraj.py/)
-[![Art Studio](https://img.shields.io/badge/Art_Studio-FFC0CB?style=for-the-badge&logo=adobe&logoColor=black)](https://www.instagram.com/vortexinkstudios)
-
-</div>
-
----
-
-<div align="center">
-
-**Open to collaborating on NLP projects and UI/UX design!**
-
-<img src="https://user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif" width="100" alt="Wave"/>
-
-</div>
+<p align="center">
+  <i>Building systems that matter, one commit at a time.</i>
+</p>
