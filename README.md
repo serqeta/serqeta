@@ -12,15 +12,15 @@
 
 # Hi there, I'm Suraj Harlekar
 
-Welcome to my GitHub profile! I'm an AI/ML engineer and full-stack developer specializing in agentic systems, natural language processing, and production-grade machine learning infrastructure.
+Welcome to my GitHub profile! I'm an AI/ML engineer and full-stack developer specializing in agentic systems, natural language processing, and production-grade GenAI infrastructure.
 
 ## About Me
 
 - Currently pursuing B.Tech in CSE (AI & Data Science) at IIIT Kottayam
-- Building Entropy: Agentic AI for Clinical Intelligence with deterministic "Glass Box" architecture
+- Building Entropy: Agentic AI for Clinical Intelligence with deterministic Glass Box architecture
 - Former Observatory Control System Software Intern at Physical Research Laboratory, Mount Abu
 - Placement Cell Lead managing recruitment operations for 23+ companies
-- Winner of FinShield'2025 Hackathon with IPR acquired by Bank of India
+- Winner of FinShield 2025 Hackathon with IPR acquired by Bank of India
 
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=BrownBeast-spec&theme=onedark&margin-w=15&margin-h=15)
 
@@ -56,16 +56,18 @@ Welcome to my GitHub profile! I'm an AI/ML engineer and full-stack developer spe
 
 **Stack:** React, Tailwind CSS, Streamlit, Docker, Git, Minio
 
+---
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BrownBeast-spec&layout=compact&theme=radical)
+
+---
 
 ## Featured Projects
 
 ### Entropy: Agentic AI for Clinical Intelligence
 **Tech Stack:** FastAPI, Ray (8-agent architecture)
 
-Automated clinical intelligence pipeline reducing comprehensive report generation from 2 weeks to 3 minutes. Built deterministic "Glass Box" Trust Engine to detect "Zombie Trials" and cross-reference FDA data with 100% citation traceability. Product scope refined through consultation with EATRIS Directors.
-
-[View Project](https://github.com/BrownBeast-spec/)
+Automated clinical intelligence pipeline reducing comprehensive report generation from 2 weeks to 3 minutes. Built deterministic "Glass Box" Trust Engine to detect "Zombie Trials" and cross-reference FDA data with 100% citation traceability. Product scope refined through consultation with **EATRIS Directors**.
 
 ### FinShield: Behavioral Biometric Authentication
 **Tech Stack:** KNN/LSTM, ML-KEM, DPDP-compliant architecture  
@@ -89,7 +91,7 @@ Developed MATLAB hyperspectral pipeline achieving 82% accuracy for lunar surface
 |-------------|--------------|------|
 | **FinShield Hackathon Winner** | Bank of India (IPR Acquired) | 2025 |
 | **SuRaksha 2nd Runner Up** | Canara Bank | 2025 |
-| **CIDECODE 1st Runner Up** | CCITR(Cybercrime Investigation Training & Research) | 2025 |
+| **CIDECODE 1st Runner Up** | CCITR (Cybercrime Investigation Training & Research) | 2025 |
 | **Bhartiya Antariksh Hackathon Finalist** | ISRO | 2024 |
 
 ## Leadership Experience
