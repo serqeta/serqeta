@@ -6,7 +6,7 @@
 
 <!-- Snake -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/BrownBeast-spec/BrownBeast-spec/output/github-contribution-grid-snake.svg" alt="snake">
+  <img src="https://raw.githubusercontent.com/serqeta/serqeta/output/github-contribution-grid-snake.svg" alt="snake">
 </div>
 
 <!-- Tagline -->
@@ -34,12 +34,12 @@
 <table align="center">
   <tr>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=BrownBeast-spec&theme=radical&show_icons=true&count_private=true" alt="github stats">
+      <img src="https://github-readme-stats.vercel.app/api?username=serqeta&theme=radical&show_icons=true&count_private=true" alt="github stats">
       <br><br>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=BrownBeast-spec&theme=radical&hide_border=false" alt="streak stats">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=serqeta&theme=radical&hide_border=false" alt="streak stats">
     </td>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrownBeast-spec&theme=radical&hide_border=false&no-bg=true&no-frame=true&langs_count=10&layout=compact" alt="top languages">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=serqeta&theme=radical&hide_border=false&no-bg=true&no-frame=true&langs_count=10&layout=compact" alt="top languages">
     </td>
   </tr>
 </table>
@@ -47,14 +47,14 @@
 <!-- Trophy -->
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-    <img width="84%" src="https://github-profile-trophy.vercel.app/?username=BrownBeast-spec&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="trophy">
+    <img width="84%" src="https://github-profile-trophy.vercel.app/?username=serqeta&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="trophy">
   </a>
 </div>
 
 <br>
 
 <!-- Tech Stack -->
-<h2 align="center">Technologies That I Know </h2>
+<h2 align="center">Technologies That I Know 👨🏻‍💻</h2>
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -137,7 +137,7 @@
   <a href="mailto:surajharlekar@gmail.com" target="blank">
     <img src="https://img.icons8.com/color/96/gmail-new.png" alt="email" height="50" width="50">
   </a>
-  <a href="https://github.com/BrownBeast-spec" target="blank">
+  <a href="https://github.com/serqeta" target="blank">
     <img src="https://img.icons8.com/ios-glyphs/120/000000/github.png" alt="github" height="50" width="50">
   </a>
 </p>
@@ -145,7 +145,7 @@
 <!-- Visit Count -->
 <div align="center">
   <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=BrownBeast-spec&icon=3&color=6" alt="visit count">
+    <img src="https://visitcount.itsvg.in/api?id=serqeta&icon=3&color=6" alt="visit count">
   </a>
 </div>
 
