@@ -4,9 +4,9 @@
 <!-- Greeting (centered) -->
 <h1 align="center">Hi 👋, I'm Suraj Harlekar</h1>
 
-<!-- Snake -->
+<!-- Activity Graph -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/serqeta/serqeta/output/github-contribution-grid-snake.svg" alt="snake">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=serqeta&theme=redical&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="activity graph">
 </div>
 
 <!-- Tagline -->
@@ -142,11 +142,9 @@
   </a>
 </p>
 
-<!-- Visit Count -->
+<!-- Profile Views -->
 <div align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=serqeta&icon=3&color=6" alt="visit count">
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=serqeta&label=Profile%20views&color=ff007f&style=for-the-badge" alt="profile views">
 </div>
 
 <!--horizontal divider (gradient)-->
