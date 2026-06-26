@@ -17,11 +17,11 @@
 <!-- Intro -->
 <ul>
   <li>I'm currently working on <strong>Entropy: Agentic AI for Clinical Intelligence</strong> with a deterministic Glass Box architecture</li>
-  <li>I'm currently learning <strong>production-grade agentic systems, Ray-based 8-agent orchestration, and post-training (RLHF, DPO, GRPO)</strong></li>
+  <li>I'm currently learning <strong>production-grade agentic systems, Ray-based 8 agent orchestration, and post training (RLHF, DPO, GRPO)</strong></li>
   <li>I've keen interest in agentic AI &amp; NLP. So, I'm learning <strong>LangGraph, LlamaIndex, and large-scale transformer pipelines</strong></li>
-  <li>I won the <strong>FinShield 2025 Hackathon</strong> &mdash; IPR acquired by <strong>Bank of India</strong></li>
+  <li>I won the <strong>FinShield 2025 Hackathon</strong> IPR acquired by <strong>Bank of India</strong></li>
   <li>I previously built the <strong>Observatory Control System</strong> for the 1.2m telescope at <strong>PRL Mount Abu</strong></li>
-  <li>Serving as <strong>Placement Cell Lead</strong> at IIIT Kottayam &mdash; coordinating 23+ recruiting companies</li>
+  <li>Serving as <strong>Placement Cell Lead</strong> at IIIT Kottayam coordinating 23+ recruiting companies</li>
   <li>Ask me about <strong>Agentic AI, LangGraph, FastAPI, PyTorch, Ray, behavioral biometrics, post-quantum cryptography</strong></li>
   <li>Portfolio: <strong><a href="https://surajh.in">surajh.in</a></strong></li>
   <li>Reach me at <strong><a href="mailto:surajharlekar@gmail.com">surajharlekar@gmail.com</a></strong></li>
@@ -54,7 +54,7 @@
 <br>
 
 <!-- Tech Stack -->
-<h2 align="center">Technologies That I Know 👨🏻‍💻</h2>
+<h2 align="center">Technologies That I Know </h2>
 
 <p align="center">
   <a href="https://skillicons.dev">
