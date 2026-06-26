@@ -1,137 +1,157 @@
-<!-- Unified Badge Row -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Building-44cc11?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Focus-AI%20%26%20ML-FF6F00?style=for-the-badge&logo=tensorflow" />
-</p>
+<!--horizontal divider (gradient)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!-- Bio Quote -->
-> Building intelligent systems that solve real problems.  
-> From agentic AI pipelines to behavioral biometrics, I work at the intersection of research and production.  
-> Currently exploring clinical intelligence automation and observatory control systems.
+<!-- Greeting (centered) -->
+<h1 align="center">Hi 👋, I'm Suraj Harlekar</h1>
 
-# Hi there, I'm Suraj Harlekar
+<!-- Snake -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/BrownBeast-spec/BrownBeast-spec/output/github-contribution-grid-snake.svg" alt="snake">
+</div>
 
-Welcome to my GitHub profile! I'm an AI/ML engineer and full-stack developer specializing in agentic systems, natural language processing, and production-grade GenAI infrastructure.
+<!-- Tagline -->
+<h3 align="center">Building intelligent systems that solve real problems</h3>
 
-## About Me
+<br>
 
-- Currently pursuing B.Tech in CSE (AI & Data Science) at IIIT Kottayam
-- Building Entropy: Agentic AI for Clinical Intelligence with deterministic Glass Box architecture
-- Former Observatory Control System Software Intern at Physical Research Laboratory, Mount Abu
-- Placement Cell Lead managing recruitment operations for 23+ companies
-- Winner of FinShield 2025 Hackathon with IPR acquired by Bank of India
+<!-- Intro -->
+<ul>
+  <li>I'm currently working on <strong>Entropy: Agentic AI for Clinical Intelligence</strong> with a deterministic Glass Box architecture</li>
+  <li>I'm currently learning <strong>production-grade agentic systems, Ray-based 8-agent orchestration, and post-training (RLHF, DPO, GRPO)</strong></li>
+  <li>I've keen interest in agentic AI &amp; NLP. So, I'm learning <strong>LangGraph, LlamaIndex, and large-scale transformer pipelines</strong></li>
+  <li>I won the <strong>FinShield 2025 Hackathon</strong> &mdash; IPR acquired by <strong>Bank of India</strong></li>
+  <li>I previously built the <strong>Observatory Control System</strong> for the 1.2m telescope at <strong>PRL Mount Abu</strong></li>
+  <li>Serving as <strong>Placement Cell Lead</strong> at IIIT Kottayam &mdash; coordinating 23+ recruiting companies</li>
+  <li>Ask me about <strong>Agentic AI, LangGraph, FastAPI, PyTorch, Ray, behavioral biometrics, post-quantum cryptography</strong></li>
+  <li>Portfolio: <strong><a href="https://surajh.in">surajh.in</a></strong></li>
+  <li>Reach me at <strong><a href="mailto:surajharlekar@gmail.com">surajharlekar@gmail.com</a></strong></li>
+  <li>Currently pursuing <strong>B.Tech in CSE (AI &amp; Data Science) at IIIT Kottayam</strong></li>
+</ul>
 
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=BrownBeast-spec&theme=onedark&margin-w=15&margin-h=15)
+<br>
 
-## Technical Expertise
+<!-- Stats + Top Langs -->
+<table align="center">
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=BrownBeast-spec&theme=radical&show_icons=true&count_private=true" alt="github stats">
+      <br><br>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=BrownBeast-spec&theme=radical&hide_border=false" alt="streak stats">
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrownBeast-spec&theme=radical&hide_border=false&no-bg=true&no-frame=true&langs_count=10&layout=compact" alt="top languages">
+    </td>
+  </tr>
+</table>
 
-### Languages & Backend
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" width="40" height="40"/>
-</p>
+<!-- Trophy -->
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
+    <img width="84%" src="https://github-profile-trophy.vercel.app/?username=BrownBeast-spec&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="trophy">
+  </a>
+</div>
 
-**Stack:** Python, C++, Java, SQL, Node.js, Express, Django, FastAPI, Ray, Bash
+<br>
 
-### AI/ML & Data Science
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/>
-</p>
-
-**Stack:** PyTorch, TensorFlow, LangGraph, LlamaIndex, Pandas, NumPy, Scikit-Learn, Hugging Face
-
-### Frontend & DevOps
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-</p>
-
-**Stack:** React, Tailwind CSS, Streamlit, Docker, Git, Minio
-
----
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BrownBeast-spec&layout=compact&theme=radical)
-
----
-
-## Featured Projects
-
-### Entropy: Agentic AI for Clinical Intelligence
-**Tech Stack:** FastAPI, Ray (8-agent architecture)
-
-Automated clinical intelligence pipeline reducing comprehensive report generation from 2 weeks to 3 minutes. Built deterministic "Glass Box" Trust Engine to detect "Zombie Trials" and cross-reference FDA data with 100% citation traceability. Product scope refined through consultation with **EATRIS Directors**.
-
-### FinShield: Behavioral Biometric Authentication
-**Tech Stack:** KNN/LSTM, ML-KEM, DPDP-compliant architecture  
-**Recognition:** IPR owned by Bank of India
-
-Multi-modal behavioral authentication system (touch, motion, typing) for real-time fraud detection in mobile banking. Achieved sub-millisecond anomaly detection with quantized KNN/LSTM engine and few-shot personalization. Integrated post-quantum cryptography for future-proof security.
-
-### Observatory Control System (PRL Mount Abu)
-**Tech Stack:** Django, REST API, Minio, 3PB distributed filesystem
-
-Deployed unified Observatory Control System consolidating 4+ Django modules for 1.2m telescope. Migrated Science Archive from AWS S3 to Minio on 3PB distributed filesystem, optimizing long-term observational archival costs. Implemented REST API with real-time admin dashboard for centralized telescope provisioning.
-
-### IIRS Spectral Classification of Lunar Surface
-**Tech Stack:** MATLAB, Hyperspectral Processing, GUI Development
-
-Developed MATLAB hyperspectral pipeline achieving 82% accuracy for lunar surface mineralogy analysis. Deployed real-time GUI for spectral classification used in research applications.
-
-## Achievements & Recognition
-
-| Achievement | Organization | Year |
-|-------------|--------------|------|
-| **FinShield Hackathon Winner** | Bank of India (IPR Acquired) | 2025 |
-| **SuRaksha 2nd Runner Up** | Canara Bank | 2025 |
-| **CIDECODE 1st Runner Up** | CCITR (Cybercrime Investigation Training & Research) | 2025 |
-| **Bhartiya Antariksh Hackathon Finalist** | ISRO | 2024 |
-
-## Leadership Experience
-
-**Placement Cell Lead - HR & Student Coordination**  
-IIIT Kottayam (Aug 2024 - Present)
-
-- Primary point of contact for 23 companies, managing end-to-end recruitment lifecycle
-- Directed logistics for online assessments and interviews for graduating batch
-- Handled student data management and resolved real-time operational issues
-
-## Current Focus
-
-**Building production-grade AI systems with emphasis on**:
-- Agentic AI architectures using Ray and LangGraph
-- Clinical intelligence automation and research validation
-- Behavioral biometrics and post-quantum cryptography
-- Large-scale observatory control systems
-- NLP and transformer-based architectures
-
-## Connect with Me
+<!-- Tech Stack -->
+<h2 align="center">Technologies That I Know </h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/surajharlekar">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:suraj23bcd38@iiitkottayam.ac.in">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://github.com/BrownBeast-spec">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,cpp,java,mysql,nodejs,express,django,fastapi,pytorch,tensorflow,sklearn,react,tailwind,docker,git,github,linux,bash,vscode,postman,md&perline=14" alt="tech stack">
   </a>
 </p>
 
+<br>
+
+<!-- Featured Projects -->
+<h2 align="center">Featured Projects</h2>
+
+<ul>
+  <li>
+    <strong>Entropy : Agentic AI for Clinical Intelligence</strong> &middot; FastAPI &middot; Ray (8-agent architecture)
+    <ul>
+      <li>Automated clinical intelligence pipeline reducing comprehensive report generation from <strong>2 weeks to 3 minutes</strong></li>
+      <li>Deterministic "Glass Box" Trust Engine detects Zombie Trials and cross-references FDA data with <strong>100% citation traceability</strong></li>
+      <li>Product scope refined in consultation with <strong>EATRIS Directors</strong></li>
+    </ul>
+  </li>
+  <br>
+  <li>
+    <strong>FinShield : Behavioral Biometric Authentication</strong> &middot; KNN/LSTM &middot; ML-KEM &middot; DPDP-compliant
+    <ul>
+      <li>Multi-modal behavioral auth (touch, motion, typing) for real-time fraud detection in mobile banking</li>
+      <li>Sub-millisecond anomaly detection with a quantized KNN/LSTM engine + few-shot personalization</li>
+      <li>Integrated post-quantum cryptography for future-proof security &mdash; <strong>IPR owned by Bank of India</strong></li>
+    </ul>
+  </li>
+  <br>
+  <li>
+    <strong>Observatory Control System</strong> &middot; Django &middot; REST API &middot; Minio &middot; 3PB Distributed FS
+    <ul>
+      <li>Unified Observatory Control System for the 1.2m telescope at PRL Mount Abu, consolidating 4+ Django modules</li>
+      <li>Migrated Science Archive from AWS S3 to Minio on a 3PB distributed filesystem for optimized archival cost</li>
+      <li>Real-time admin dashboard for centralized telescope provisioning</li>
+    </ul>
+  </li>
+  <br>
+  <li>
+    <strong>IIRS Spectral Classification of Lunar Surface</strong> &middot; MATLAB &middot; Hyperspectral &middot; GUI
+    <ul>
+      <li>MATLAB hyperspectral pipeline achieving <strong>82% accuracy</strong> for lunar surface mineralogy</li>
+      <li>Real-time GUI deployed for active research applications</li>
+    </ul>
+  </li>
+</ul>
+
+<br>
+
+<!-- Achievements -->
+<h2 align="center">Achievements &amp; Recognition</h2>
+
+<div align="center">
+
+| Achievement                          | Organization                                          | Year |
+| ------------------------------------ | ----------------------------------------------------- | ---- |
+| **Top 30, IDEA 2.0** *(ongoing)*     | Union Bank of India                                   | 2026 |
+| **Top 10, AMD Slingshot '26**        | AMD                                                   | 2026 |
+| **FinShield Hackathon Winner**       | Bank of India *(IPR Acquired)*                        | 2025 |
+| **SuRaksha &mdash; 2nd Runner Up**   | Canara Bank                                           | 2025 |
+| **CIDECODE &mdash; 1st Runner Up**   | CCITR (Cybercrime Investigation Training & Research)  | 2025 |
+| **Bhartiya Antariksh Finalist**      | ISRO                                                  | 2024 |
+
+</div>
+
+<br>
+
+<!-- Connect -->
+<h2 align="center">Connect With Me</h2>
+
 <p align="center">
-  <strong>Open to collaborations on AI/ML research, agentic systems, and production ML infrastructure.</strong>
+  <a href="https://surajh.in" target="blank">
+    <img src="https://img.icons8.com/color/96/domain.png" alt="portfolio" height="50" width="50">
+  </a>
+  <a href="https://www.linkedin.com/in/surajharlekar" target="blank">
+    <img src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50">
+  </a>
+  <a href="mailto:surajharlekar@gmail.com" target="blank">
+    <img src="https://img.icons8.com/color/96/gmail-new.png" alt="email" height="50" width="50">
+  </a>
+  <a href="https://github.com/BrownBeast-spec" target="blank">
+    <img src="https://img.icons8.com/ios-glyphs/120/000000/github.png" alt="github" height="50" width="50">
+  </a>
 </p>
 
----
+<!-- Visit Count -->
+<div align="center">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=BrownBeast-spec&icon=3&color=6" alt="visit count">
+  </a>
+</div>
 
-<p align="center">
-  <i>Building systems that matter, one commit at a time.</i>
-</p>
+<!--horizontal divider (gradient)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<hr>
+
+<p align="center"><i>Building systems that matter, one commit at a time.</i></p>
